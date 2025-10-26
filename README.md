@@ -1,2 +1,2 @@
 # Pharma-projects
-Repository for my learning and projects related to pharmaceutical sciences, Python, and data analysis.
+This repository includes my projects related to pharmaceutical analysis, Python programming, and data analysis.
