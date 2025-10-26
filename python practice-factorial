@@ -1,0 +1,16 @@
+My first code on git hub;(Factorial of 5)
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+print("Factorial of 5 is:",factorial(5))
+
+ #SECOND METHOD
+def factorial (n):
+    result=1
+for i in range(1,n+1):
+    result= result * i
+  return result
+print("Factorial of 5 is:", factorial(5))
+
